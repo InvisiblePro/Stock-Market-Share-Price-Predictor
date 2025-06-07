@@ -1,7 +1,7 @@
-# Stock Market Share Price Predictor  [![](https://img.shields.io/badge/Language-Python-blue?logo=python&style=for-the-badge)](https://www.python.org/)
+# Stock Market Share Price Predictor  [![](https://img.shields.io/badge/Language-Python-blue?logo=python)](https://www.python.org/) [![CodeQL](https://github.com/InvisiblePro/Stock-Market-Share-Price-Predictor/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/InvisiblePro/Stock-Market-Share-Price-Predictor/actions/workflows/codeql.yml)
 
-### This is an AI based project which specifically on `Data domain`
-### _This Repository contains program which predicts share price for particular organisation by data of past 60 days._
+### This is an AI-based project that is specifically focused on the `Data domain`
+### _This Repository contains a program that predicts the share price for a particular organisation based on data from the past 60 days._
 
 
 > Modules Required
@@ -13,17 +13,14 @@
     - pandas 
     - pandas_datareader
 
-Just download the `Download.zip` file or `git clone https://github.com/InvisiblePro/Stock_Market_Share_Price_Predictor.git` and install all requirements and have predictions of your Share prices, Increase your profits!.... Enjoy!!🥳
+Just download the `Download.zip` file or `git clone https://github.com/InvisiblePro/Stock_Market_Share_Price_Predictor.git` and install all requirements and have predictions of your Share prices, increase your profits!.... Enjoy!!🥳
 
-You can install manually using `pip install` in command prompt, or you install through `pip install -r requirements.txt` file in command prompt
+You can install manually using `pip install` in the command prompt, or you can install through `pip install -r requirements.txt` file in the command prompt
  
 ### *TOOLS and LANGUAGES* 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="PyCharm" width="40px">](https://www.jetbrains.com/pycharm) &nbsp; [<img alt="Visual Studio Code" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="30px" />](https://code.visualstudio.com/) &nbsp;  [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="30px" />](https://www.python.org/)
+[<img alt="Visual Studio Code" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="30px" />](https://code.visualstudio.com/) &nbsp;  [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="30px" />](https://www.python.org/)
 
-<h6><hr></h6>
-<h4> 
-<img src="https://www.freeiconspng.com/uploads/sign-warning-icon-png-7.png" width=20> This is just prediction done by model <h4>
-    
-<hr>
+This is just a prediction made by the model. 
 
-[<img src="https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=github&style=for-the-badge" alt="InvisiblePro">](https://github.com/InvisiblePro)
+
+[<img src="https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=github" alt="InvisiblePro">](https://github.com/InvisiblePro)
