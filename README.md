@@ -3,8 +3,7 @@
 ### This is an AI-based project that is specifically focused on the `Data domain`
 ### _This Repository contains a program that predicts the share price for a particular organisation based on data from the past 60 days._
 
-
-> Modules Required
+&nbsp; Modules Required
 
     - tensorflow 
     - numpy 
@@ -13,9 +12,11 @@
     - pandas 
     - pandas_datareader
 
-Just download the `Download.zip` file or `git clone https://github.com/InvisiblePro/Stock_Market_Share_Price_Predictor.git` and install all requirements and have predictions of your Share prices, increase your profits!.... Enjoy!!🥳
+Just download the `Download.zip` file or `git clone https://github.com/InvisiblePro/Stock_Market_Share_Price_Predictor.git`.
 
-You can install manually using `pip install` in the command prompt, or you can install through `pip install -r requirements.txt` file in the command prompt
+Install all requirements and make predictions for Share prices.
+
+You can install manually using `pip install` in the command prompt, or you can install through `pip install -r requirements.txt` file in the command prompt.
  
 ### *TOOLS and LANGUAGES* 
 [<img alt="Visual Studio Code" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="30px" />](https://code.visualstudio.com/) &nbsp;  [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="30px" />](https://www.python.org/)
